@@ -1,10 +1,10 @@
-/*
-   This program illustrates the differences
-   between int and double.
-
-   Call this file Example3.java.
+/*  
+   This program illustrates the differences 
+   between int and double. 
+ 
+   Call this file Example3.java. 
 */
-class Example4 {
+class Example3 {
     public static void main(String[] args) {
         int var;  // this declares an int variable
         double x; // this declares a floating-point variable
