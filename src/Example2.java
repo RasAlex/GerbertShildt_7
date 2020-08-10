@@ -4,7 +4,7 @@
    Call this file Example2.java.
 */
 class Example2 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int var1; // this declares a variable
         int var2; // this declares another variable
 
